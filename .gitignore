@@ -129,3 +129,27 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+
+
+config 
+
+data
+
+database
+
+.env.example
+
+favicon.png
+
+package-lock.json
+
+README.md
+
+scripts
+
+types /
+generated
+
+
+
+
